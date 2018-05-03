@@ -3,4 +3,5 @@ $(document).ready(function() {
       $('svg').toggleClass('animate');               
     });
     $('svg').toggleClass('animate');
+    //Hello World
   });
